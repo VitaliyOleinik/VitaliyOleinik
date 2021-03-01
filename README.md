@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-[![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
+[![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/VitaliyOleinik/VitaliyOleinik/actions?query=workflow%3Aprogress)
 
 !\[Something awesome\](https:<span></span>//you.imagine.local/img.png)
 
-![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VitaliyOleinik&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyOleinik&layout=compact)
 
 ### WakaTime last 30 days report 🐾
 
