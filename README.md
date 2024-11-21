@@ -40,7 +40,7 @@
 ### 🤝 Let's Collaborate!
 - 💬 Feel free to reach out if you want to work together on Open Source projects or have a challenging idea.
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 📝 [LinkedIn](https://www.linkedin.com/in/vitaliyoleinik) | [Twitter](https://twitter.com/vitaliy_oleinik)
+- 📝 [LinkedIn](https://www.linkedin.com/in/vitaliy-oleinik) | [Twitter](https://twitter.com/vitaliy_oleinik)
 
 ---
 
