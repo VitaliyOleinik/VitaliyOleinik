@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Profile! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=440&lines=Hello%2C+I+am+Vitaliy+Oleinik;Software+Engineer+%7C+Tech+Enthusiast;Always+learning+something+new+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=440&lines=Hello%2C+I+am+Vitaliy+Oleinik;Software+Engineer;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
